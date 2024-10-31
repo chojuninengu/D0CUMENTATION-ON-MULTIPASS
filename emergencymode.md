@@ -45,7 +45,7 @@ then take the desired name of your system in recovery mode
 * NB:TAKE THE LATEST VERSION IN RECOVERY MODE
 after that you will enter here
     ![alt text](<WhatsApp Image 2024-10-31 at 11.29.42 AM-2.jpeg>)
-# CONGRATS ,YOU ARE NOW AT THE RECOVERY MODE MEN
+# CONGRATS ,YOU ARE NOW AT THE RECOVERY MODE MENU
 * you will see options like  {(resume)(clean)(dpkg)(fsck)(grub)}
 * you can use the resume to get to the recovery mode interface-
 * you can use the clean to free up space in your linux distro
