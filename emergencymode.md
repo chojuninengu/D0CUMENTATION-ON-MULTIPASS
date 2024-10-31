@@ -69,7 +69,7 @@ after that you will enter here
  * YOU NEED TO CHECK YOUR **GRUB CONGIGURATION FILE**
   * use the command ```sudo nano /etc/default/grup```
  * In my case, i had ```(acpi=off)```
- * delete the link containing  the ``acpi=off``
+ * delete the ``acpi=off`` option 
  * then do `sudo grub-update`
  * finally do `init 6`
  * # YOU ARE DONE THANKYOU FOR YOUR TIME
