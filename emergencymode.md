@@ -66,10 +66,10 @@ after that you will enter here
  * then reboot normally(init 6,reboot,systemctl reboot)
  * CONGRATS,YOUR ISSUE HAS BEEN SOLVE
 * If your machine freezes on reboot or just shows a dark screen do the following
- * YOU NEED TO CHECK YOUR **GREP CONGIGURATION FILE**
+ * YOU NEED TO CHECK YOUR **GRUB CONGIGURATION FILE**
   * use the command ```sudo nano /etc/default/grup```
  * In my case, i had ```(acpi=off)```
- * use the command delete the ``acpi=off``
+ * delete the link containing  the ``acpi=off``
  * then do `sudo grub-update`
  * finally do `init 6`
  * # YOU ARE DONE THANKYOU FOR YOUR TIME
