@@ -2,7 +2,7 @@
   WHAT IS EMERGENCY MODE
 
   Emergency mode in Linux is a minimal environment that allows you to troubleshoot and recover a system that is unable to boot properly due to critical issues, such as filesystem corruption, misconfigured services, or hardware failures. When a Linux system cannot boot into its normal operating mode, it may automatically drop into emergency mode, typically indicated by a prompt where you can enter commands.
-WHY IS YOUR LINUX IN EMERGENCY MODE
+WHY IS YOUR LINUX IN EMERGENCY MODE? 
     Linux may enter emergency mode for several reasons, typically related to critical system failures or issues that prevent the operating system from booting normally. Here are some common causes:
 1. Filesystem Corruption
        If the filesystem is corrupted, the system may fail to mount essential partitions. This can happen due to improper shutdowns, hardware failures, or disk errors.
