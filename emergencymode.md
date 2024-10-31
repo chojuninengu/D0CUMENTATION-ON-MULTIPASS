@@ -72,4 +72,4 @@ after that you will enter here
  * delete the ``acpi=off`` option 
  * then do `sudo grub-update`
  * finally do `init 6`
- * # YOU ARE DONE THANKYOU FOR YOUR TIME
+ * # BRAVO!
